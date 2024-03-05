@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/storage/emulated/0/my/示例/Demo",
+  "command": "clang -DANDROID -D__ANDROID__ -Ddemo_EXPORTS -I/storage/emulated/0/my/示例/Demo/../../include      -Os     -Wall     -fPIC     -std=c11     -Wno-unused     -Wno-unused-parameter     -fcolor-diagnostics      -fPIC -o CMakeFiles/demo.dir/draw2.c.o -c /storage/emulated/0/my/示例/Demo/draw2.c",
+  "file": "/storage/emulated/0/my/示例/Demo/draw2.c"
+}
+]
